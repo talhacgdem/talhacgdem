@@ -1,4 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Muhammed Talha Çiğdem</h1>
+<h3 align="center">A passionate full stack developer, specially JAVA BACKEND Developer from Turkey</h3>
+
+- 🔭 I’m currently working on **intihal.net KTS**
+
+- 🌱 I’m currently learning **Spring Boot**
+
+- 💬 Ask me about **Web**
+
+- 📫 How to reach me **talhacgdem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +28,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhacgdem&show_icons=true&locale=en&layout=compact" alt="talhacgdem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhacgdem&" alt="talhacgdem" /></p>
+
