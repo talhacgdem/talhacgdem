@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Talha Çiğdem</h1>
-<h3 align="center">A passionate full stack developer, specially JAVA BACKEND Developer from Turkey</h3>
+<h3 align="center">A passionate full stack developer, specially JAVA BACKEND Developer. I'm from Turkey</h3>
 
 - 🔭 I’m currently working on **intihal.net KTS**
 
