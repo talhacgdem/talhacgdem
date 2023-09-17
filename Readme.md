@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **intihal.net KTS**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently working on **Spring Boot**
 
 - 💬 Ask me about **Web**
 
